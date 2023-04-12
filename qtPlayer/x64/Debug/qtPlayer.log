@@ -1,0 +1,7 @@
+﻿  Reading Qt configuration (D:/vs/5.12.3/msvc2017_64/bin/qmake)
+  moc qtplayer.h
+  qtplayer.cpp
+  main.cpp
+  qrc_qtplayer.cpp
+  moc_qtplayer.cpp
+  qtPlayer.vcxproj -> E:\oops\qtPlayer\x64\Debug\qtPlayer.exe
